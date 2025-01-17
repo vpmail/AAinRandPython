@@ -16,7 +16,7 @@ Keywords: single vs. multi-step ahead forecasting, investment and forecast horiz
 1. Notebook on Fixed Income
    Click here: [https://github.com/vpmail/tempo/notebooks/mynotebook1.ipynb](https://github.com/vpmail/tempo/blob/master/notebooks/mynotebook1.ipynb)
    https://github.com/vpmail/AAinRandPython/blob/master/notebooks/yield-curve-factor-forecasting-var-in-r.ipynb
-   https://github.com/vpmail/AAinRandPython/blob/master/notebooks/yield-curve-factor-forecasting-var-in-r.ipynb
+   https://github.com/vpmail/AAinRandPython/blob/master/notebooks/yield-curve-factor-forecasting-ml-in-python.ipynb
 3. Notebook on Multi Asset Allocation
 For more info see the wiki: [https://github.com/vpmail/tempo/wiki](https://github.com/vpmail/tempo/wiki)
 
